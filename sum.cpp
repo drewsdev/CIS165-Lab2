@@ -8,5 +8,6 @@ int main() {
 	int total = FIRST_NUMBER + SECOND_NUMBER;
 
 	cout << "Total: " << total << endl;
+	
 	return 0;
 }
