@@ -1,4 +1,4 @@
-#AI Reflection
+# AI Reflection
 
 I used Perplexity AI to help understand the compile code and how it properly works. As someone who has used VS Code as their main editor, I haven't used the terminal too much to execute my code as I generally just use the 'Run & Debug' feature within the compiler. I was able to learn more about the compile command and how to use it properly. The additional flags such as '-Wall' and '-Wextra' is something I didn't learn about when I was learning about C++ previously. I was able to learn a bit more about using the Terminal and how to execute programs using it. I believe I still have a lot to learn with uses of Terminal, but this is a good start.
 
